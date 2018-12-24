@@ -7,314 +7,212 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css" type="text/css">
-    <link rel="stylesheet" href="FontsFree-Net-Proxima-Nova-Sbold.otf" type="text/css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" type="text/css">
     
-        <title>Eventackle - HOME</title>
+        <title>AL Bawadi Metal Industries - aluminium scaffolding, aluminium ladders</title>
   </head>
 <body>
-<nav class="navbar my-nav navbar-expand-lg navbar-light">
-  <a class="navbar-brand" href="#">
-    <img src="images/logo.svg" width="30" height="30" class="d-inline-block align-top logo" alt="">
-  </a>
+<div class="container">
+<nav class="my-nav navbar navbar-expand-lg navbar-light">
+  <a class="navbar-brand" href="#"></a>
+   <img src="/images/logo.png" class="d-inline-block align-top" alt="">
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="navbar-toggler-icon"></span>
+    <span class="navbar-toggler-icon"></span>
   </button>
-<div class="collapse navbar-collapse" id="navbarSupportedContent">
-  <ul class="nav navbar-nav ml-auto pt-1">
-    <li class="nav-item">
-      <button class="btn-sm btn-s"><strong>Create Event</strong></button>
-    </li>
-    <li class="nav-item">
-    <button class="btn btn-outline btn-sm btn-l"><strong>Log In</strong></button>
-    </li>
-</div>
-</nav>
 
-<div class="wrapper">
-  <div class="inner">
-      <div class="content">
-          <h4 class="wow fadeInDown" data-wow-delay="1s">Bringing all the people together through live experiences!</h4>
-          <div class="row ">
-            <div class="col-sm-3 mx-auto">
-              <div class="input-group mycustom md-3">
-                <input type="text" class="form-control" placeholder="Search events or categories" aria-describedby="button-addon2">
-                  <div class="input-group-prepend">
-                    <button class="wow bounceInLeft btn-lg btn-search">Search</button>
-                  </div>
-              </div>
-            </div>
-          </div>
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
+    <ul class="navbar-nav my ml-auto">
+      <li class="nav-item active">
+        <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">ABOUT US</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">CONTACT US</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+</div>
+<img class="imgs img-fluid" src="images/mc.png">
+
+<div class="row3"><br>
+  <div class="container">
+    <h2>Our Products</h2>
+    <div class="heading-holder"></div>
+    <div class="row">
+      <div class="col-sm-3">
+        <!-- <div class="img-thumbnail"> -->
+          <img class="imgs3" src="images/rolling-warehouse-aluminium-ladder.jpg">
+        <!-- </div> -->
+        <a class="apro" href="#">
+        <figure class="product-icons ladders"></figure>
+        Aluminium Scaffolding
+      </a>
       </div>
+      <div class="col-sm-3">
+        <!-- <div class="img-thumbnail"> -->
+          <img class="imgs3" src="images/aluminium-podium-scaffolding.jpg">
+        <!-- </div> -->
+        <a class="apro" href="#">
+        <figure class="product-icons ladders"></figure>
+        Aluminium Ladders
+      </a>
+      </div>
+      <div class="col-sm-3">
+        <!-- <div class="img-thumbnail"> -->
+          <img class="imgs3" src="images/aluminium-mobile-narrow-scaffolding.jpg">
+        <!-- </div> -->
+        <a class="apro" href="#">
+        <figure class="product-icons ladders"></figure>
+        Steel Cots
+      </a>
+      </div>
+      <div class="col-sm-3">
+        <!-- <div class="img-thumbnail"> -->
+          <img class="imgs3" src="images/aluminium-folding-scaffolding.jpg">
+        <!-- </div> -->
+        <a class="apro" href="#">
+        <figure class="product-icons ladders"></figure>
+        Steel Furniture
+      </a>
+      </div>
+    </div>
+  </div><br><br><br>
+</div>
+
+<div class="row2"><br>
+  <div class="container">
+    <h2>Welcome To Al Bawadi Metal Industries</h2>
+    <h4>WE ARE PROFESSIONAL, COMPETITIVE AND COMPETENT IN OUR SERVICE</h4>
+    <div class="heading-holder"></div>
+    <p class="intro">Al Bawadi Metai Industries is a Dubai based company dealing in diversified range of products like aluminium scaffolding ,aluminium ladders, steel beds and steel furniture. We speicalize in the supply of a wide range of scaffolding products all over UAE and other GCC countries. With an experience and understanding of the industry for over a decade, we have emerged into the ever growing market of UAE with our wide range of products. Our new brand, TOPMAN was launched recently and within that short span of time, we have grown to be one of the key players in the scaffolding and aluminium industry in and around UAE.</p>
+    <a href="#" class="view-details">View Details</a>
   </div>
 </div>
-
-<div class="events">
-  <strong><p class="p-up" style="display:inline;">Events for you in</p> <p class="p-upp" style="display:inline;">Srinagar, India</p><strong>  <img class="pen" src="images/ic-mode-edit-18-px.svg"></img>
+<br>
+<div class="row3"><br>
+  <div class="container">
+    <h2>Be The First to Try Our Products</h2>
+    <div class="heading-holder">
+    </div>
+    <div id="myCarousel" class="carousel slide">
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <div class="row">
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/straight-aluminium-ladder.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/platform-step-aluminium-ladder.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/two-way-aluminium-ladder.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/double-section-aluminium-ladder.jpg"></a>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="carousel-item">
+          <div class="row">
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/rolling-warehouse-aluminium-ladder.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/aluminium-podium-scaffolding.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/aluminium-mobile-narrow-scaffolding.jpg"></a>
+                </div>
+              </div>
+              <div class="col-sm-3">
+                <div class="img-thumbnail"><a href="#x">
+                  <img class="imgs2" src="images/aluminium-folding-scaffolding.jpg"></a>
+                </div>
+              </div>
+          </div>
+        </div>
+        <div class="custom">
+        <a class="btn left carousel-control" href="#myCarousel" data-slide="prev">‹</a>
+        <a class="btn right carousel-control" href="#myCarousel" data-slide="next">›</a>
+        </div>
+      </div>
+    </div>
+  </div>
 </div><br>
 
-<!-- <div class="container"> -->
-  <div class="row justify-content-center align-self-center">
-    <div class="col-xs-2">
-      <div class="card mb-4 button-wrapper " style="width: 18rem;">
-        <img class="card-img-top" src="images/ist.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Travelling Perks</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>Creativity and Marketing</p>
-          <hr>
-          <img src="images/wishlist.svg"></img>
-          <a href="" class="btn btn-outline ptags">Add to Wishlist</a>
-        </div>
-      </div>
+<div class="row1">
+<div class="container"><br>
+  <div class="row">
+    <div class="col-sm-3">
+      <h5>Aluminium Scaffolding</h5><hr class="newhr">
+      <ul><li><a class="fli" href="#"> Mobile Wide Scaffolding</a></li>
+        <li><a class="fli" href="#"> Mobile Narrow Scaffolding</a></a></li>
+          <li><a class="fli" href="#"> Folding Scaffolding</a></a></li>
+          <li><a class="fli" href="#"> Podium Scaffolding</a></a></li>
+      </ul>
     </div>
-    <div class="col-xs-2">
-      <div class="card mb-4 button-wrapper" style="width: 18rem;">
-        <img class="card-img-top" src="images/2nd.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Ancient Architecture</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>History</p>
-          <hr>
-          <img src="images/wishlist.svg"></img>
-          <a href="#" class="btn btn-outline ptags">Add to Wishlist</a>
-        </div>
-      </div>
+     <div class="col-sm-3">
+      <h5>Aluminium Ladders</h5><hr class="newhr">
+      <ul><li><a class="fli" href="#"> Platform Step Ladder</a></a></li>
+          <li><a class="fli" href="#"> Rolling Warehouse Ladder</a></a></li>
+          <li><a class="fli" href="#"> Two Way Ladder</a></a></li>
+          <li><a class="fli" href="#"> Straight Ladder</a></a></li>
+          <li><a class="fli" href="#"> Double Section Ladder</a></a></li>
+          <li><a class="fli" href="#"> Triple Section Ladder</a></a></li>
+          <li><a class="fli" href="#">Multi Task Ladder</a></li>
+      </ul>
     </div>
-    <div class="col-xs-2">
-      <div class="card mb-4 button-wrapper" style="width: 18rem;">
-        <img class="card-img-top" src="images/3rd.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Adrenaline Rush</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>History</p>
-          <hr>
-          <img src="images/wishlist.svg"></img>
-          <a href="#" class="btn btn-outline ptags">Add to Wishlist</a>
-        </div>
-      </div>
+    <div class="col-sm-3">
+      <h5>Steel Cots</h5><hr class="newhr">
+      <ul><li><a class="fli" href="#"> Single Cot Top 110 S</a></a></li>
+          <li><a class="fli" href="#"> Single Cot Top 210 S</a></a></li>
+          <li><a class="fli" href="#"> Single Cot Top 310 S</a></li>
+          <li><a class="fli" href="#"> Bunk Cot Top 110 B</a></li>
+          <li><a class="fli" href="#"> Detachable Cot 210 B</a></li>
+      </ul>
     </div>
-    <div class="col-xs-2">
-      <div class="card button-wrapper" style="width: 18rem;">
-        <img class="card-img-top" src="images/second.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Long Paths</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>Life and Goals</p>
-          <hr>
-          <img src="images/wishlist.svg"></img>
-          <a href="#" class="btn btn-outline ptags">Add to Wishlist</a>
-        </div>
-      </div>
+    <div class="col-sm-3">
+      <h5>Steel Furniture</h5><hr class="newhr">
+      <ul><li><a class="fli" href="#"> Steel Shoe Rack</a></li>
+          <li><a class="fli" href="#"> Steel Lockers</a></li>
+          <li><a class="fli" href="#"> Steel Vertical Filing Cabinet</a></li>
+          <li><a class="fli" href="#"> Steel Cupboards</a></li>
+      </ul>
     </div>
   </div>
-<!-- </div> -->
-
-<div class="container">
-  <p class="p-up" style="text-align:center;">Featured Events</p><br>
-  <div class="row justify-content-center align-self-center">
-    <div class="col-xs-3">
-      <div class="card mb-4" style="width: 18rem;">
-        <img class="card-img-top" src="images/first.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Creative Corner</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>Creativity and Marketing</p>
-          <!-- <hr> -->
-          <!-- <a href="#" class="btn btn-outline">Add to Wishlist</a> -->
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-1">
-    </div>
-    <div class="col-xs-3">
-      <div class="card mb-4" style="width: 18rem;">
-        <img class="card-img-top" src="images/second.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">What made them lead..</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>History</p>
-          <!-- <hr> -->
-          <!-- <a href="#" class="btn btn-outline">Add to Wishlist</a> -->
-        </div>
-      </div>
-    </div><div class="col-sm-1">
-    </div>
-    <div class="col-xs-3">
-      <div class="card mb-4" style="width: 18rem;">
-        <img class="card-img-top" src="images/third.jpg" alt="Card image cap">
-        <div class="card-body">
-          <h5 class="card-title ptagsss">Long Paths</h5>
-          <p class="card-text ptags">Monday, April 10, 6:00 PM<br><br>Life and Goals</p>
-          <!-- <hr> -->
-          <!-- <a href="#" class="btn btn-outline">Add to Wishlist</a> -->
-        </div>
-      </div>
-    </div>
-  </div>
-  <p style="color:#1aa2c5;">Show all (112)</p>
+</div><br>
 </div>
-
-
-<div class="container">
-  <p class="p-up" style="text-align:center;">Event Categories</p><br>
-  <div class="row">
-    <div class="col-sm-7">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/oil.jpg">
-        <div class="caption">
-            <p>Oil and Gas</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-5">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/mining.jpg">
-        <div class="caption">
-            <p>Mining</p>
-        </div>
-      </div> 
-    </div>
-  </div> <br>
-  <div class="row">
-    <div class="col-sm-4">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/energy.jpg">
-        <div class="caption">
-            <p>Renewable Energy</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/health.jpg">
-        <div class="caption">
-            <p>Health Care</p>
-        </div>
-      </div> 
-    </div>
-    <div class="col-sm-4">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/air.jpg">
-        <div class="caption">
-            <p>Aviation</p>
-        </div>
-      </div> 
-    </div>
-  </div>   
-  <br>
-  <div class="row">
-    <div class="col-sm-5">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/dance.jpg">
-        <div class="caption">
-            <p>Music</p>
-        </div>
-      </div>
-    </div>
-    <div class="col-sm-7">
-      <div class="thumbnail text-center">
-        <img class="responsive" src="images/color.jpg">
-        <div class="caption">
-            <p>Creativity</p>
-        </div>
-      </div> 
-    </div>
-  </div><br>
-  <p style="color:#1aa2c5;">Show all (12)</p>
-</div> <br>
-
-
-<div class="jumbo">
+<footer>
   <div class="container">
-    <strong><h3 class="p-up"style="text-align:center;">How Eventackle Works</h3></strong>
-      <div class="row">
-        <div class="col-sm-6">
-          <span>
-            <strong><p class="ptagsss">Find Events</p></strong>
-              <p class="ptags">Discover corporate events from across the globe!</p>
-              <strong><p class="org ptags"  style="display:inline;">Find Events</p></strong> <img class="arrow" style="display:inline;" src="images/ic-arrow-downward-24-px.svg"></img>
-            </span>
-        </div>
-      <div class="col-sm-6">
-
-      <strong><p class="ptagsss">Create Event</p></strong>
-      <p class="ptags">Create beautiful event listing pages.</p>
-      <strong><p class="org ptags" style="display:inline;">Create Events</p></strong> <img class="arrow" style="display:inline;" src="images/ic-arrow-downward-24-px.svg"></img>
-      </div>
-   </div>
-  </div>
-</div>
-
-<br>
-<br>
-
-<div class="contain">
-  <div class="row">
-    <div class="col-sm-1">
-    </div>   
-    <div class="col-xs-2">
-      <div class="cards" style="width: 18rem;">
-      <strong><p class="ptagss">Use Eventackle</p></strong>
-      <p class="ptags">How it works</p>
-      <p class="ptags">FAQ</p>
-      <p class="ptags">Sitemap</p>
-      </div>
-    </div>
-    <div class="col-sm-1">
-    </div>   
-    <!-- <div class="col-sm-1">
-    </div> -->
-    <div class="col-xs-2">
-      <div class="cards " style="width: 16rem;">
-        <strong><p class="ptagss">For Organisers</p></strong>
-        <p class="ptags">List your event</p>
-        <p class="ptags">Testimonials</p>
-        <p class="ptags">Benefits</p>
-        </div>  
-      </div>
-      <div class="col-sm-1">
-    </div> 
-    <!-- <div class="col-sm-1">
-    </div>  -->
-    <div class="col-xs-2">
-     <div class="cards" style="width: 16rem;">
-        <strong><p class="ptagss">Events</p></strong>
-        <p class="ptags">About Us</p>
-        <p class="ptags">Careers</p>
-        <p class="ptags">Blog</p>
-        </div>
-      </div>
-      <div class="col-sm-1">
-    </div> 
-    <!-- <div class="col-sm-1">
-    </div>  -->
-    <div class="col-xs-2">
-      <div class="cards" style="width: 16rem;"> 
-        <strong><p class="ptagss">Social</p></strong>
-        <p class="ptags"><img class="facebook" src="images/facebook.svg"></img> Facebook</p>
-        <p class="ptags"><img class="facebook" src="images/twitter.svg"></img> Twitter</p>
-        <p class="ptags"><img class="facebook" src="images/instagram.svg"></img> Instagram</p>
-      </div>
-    </div> 
-  </div>
-</div>
-<br>
-<br>
-
-<div class="footer">
-  <nav class="navbar navbar-expand-lg navbar-light bg-light Rectangle-7">
-  <a class="navbar-brand" href="#">
-    <img src="images/logo-copy.svg" width="30" height="30" class="d-inline-block align-top logo" alt="">
-  </a>
-    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav mx-auto footer-ul">
-      <li class="nav-item">
-          <a class="nav-link footer-a">© 2018, Eventackle</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link footer-a" href="">Cookies</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link footer-a" href="">Terms & Privacy</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link footer-a" href="http://muftisamiullah.co.nf">Designed by: muftisamiullah</a>
-        </li>
-      </ul>        
-    </div>
-  </nav>
+  <div class="footdiv">
+  <p class="fp">Copyright &copy; 2014. Al Bawadi Metal Industries LLC, All Rights Reserved.</p>
+  <p class="fp1">Design by: <a class="web" href="http://muftisamiullah.co.nf">Sami Ullah</a></p>
+</div></div>
+</footer>
+</body>
+</html>

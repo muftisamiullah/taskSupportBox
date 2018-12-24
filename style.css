@@ -1,0 +1,149 @@
+.my-nav{
+    height: 90px;
+    /* background: transparent; */
+}
+
+.imgs{
+    width: 1585px;
+}
+footer{
+    height: 45px;
+    background-color: #2d3956;
+    color: white;
+}
+.web{
+    font: 14px 'Droid Serif', serif;
+    color: #ec2028;
+}
+.intro{
+    font: 13px/18px 'Open Sans', sans-serif;
+    color: #999;
+}
+.fp{
+    font: 14px 'Droid Serif', serif;
+     /* font-size: 12px; */
+    display: inline;
+}
+.fp1{
+    font: 14px 'Droid Serif', serif;
+     /* font-size: 12px; */
+    float: right;
+    display: inline;
+}
+.footdiv{
+    padding-top: 12px;
+}
+.row1{
+    /* height: 250px; */
+    font-size: 12px;
+    text-align: center;
+    background-color: #232a3b;
+    color:#7f91bc;
+}
+h5{
+    font:20px 'Droid Serif', serif;
+    color: white;
+}
+h5:hover{
+    color: #ec2028;
+}
+
+ul {
+  list-style-type: none;
+}
+.row2{
+    text-align: center;
+    position: relative;
+    width: 100%;
+    border-top: 1px #ebebeb solid;
+    border-bottom: 1px #ebebeb solid;
+    padding: 30px 0px;
+    background: url(/images/mca.png) repeat;
+}
+h2{
+    font: 26px 'Droid Serif', serif;
+    font-size: 26px;
+    color: #ec2028;
+}
+h4{
+    font: 15px 'Droid Serif', serif;
+    font-size: 15px;
+}
+.newhr{
+     border-top: 1px dashed #7f91bc;
+}
+
+.heading-holder {
+    width: 160px;
+    height: 1px;
+    background: #898989;
+    margin: 10px auto 30px auto;
+}
+.view-details {
+    width: 165px;
+    font: italic 14px 'Droid Serif', serif;
+    color: #2d3956;
+    text-align: center;
+    display: block;
+    background-size: 158px;
+    margin: 30px auto 10px auto;
+}
+.view-details:hover {
+    text-decoration: none;
+    color: #ec2028;
+    background-size: 165px;
+}
+.row3{
+     /* font-size: 12px; */
+    text-align: center;
+}
+.imgs2{
+    width:100%
+}
+.btn{
+    display: inline-block;
+    margin-bottom: 0;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    border-radius: 4px;
+    border-color: #898989;
+    color:#898989;
+}
+.custom{
+    padding-top: 10px;
+}
+.apro{
+    font: 20px 'Droid Serif', serif;
+}
+a{
+    color: #898989;
+}
+a:hover{
+    color: #ec2028;
+text-decoration: none;}
+
+.imgs3{
+border-radius: 50%;
+width: 70%;
+height: 100%;
+}
+.my{
+    font: 14px 'Droid Serif', serif;
+}
+.fli{
+    color: #7f91bc;
+    font: 14px 'Droid Serif', serif;
+}
+.fli:hover{
+    color: white;
+}
+li{
+    margin: 3px 0;
+}
