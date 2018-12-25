@@ -11,88 +11,53 @@
   </head>
   <body>
     <div class=row4>
-    <div class="container">
-       <div class="row">
-        <div class="col-sm-4"><br>
-          <img src="/images/logo.png" class="d-inline-block align-top" alt="">
-        </div>
-        <div class="col-sm-8">
-          <div class="top-bar">
-              <div class="line"></div>
-              <a href="" class="e-mail">info@albawadimetals.com</a>
-              
-
-              <ul class="social css3 display">
-                <a href="http://facebook.com"><p class="ptags"><img  src="images/facebook.svg"></img></p></a>
-                <a href="http://twitter.com"><p class="ptags"><img  src="images/twitter.svg"></img></p></a>
-                <a href="http://instagram.com"><p class="ptags"><img  src="images/instagram.svg"></img></p></a>
-              
-            </div>
-
-          <nav class="my-nav navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand" href="#"></a>
-          <!-- <img src="/images/logo.png" class="d-inline-block align-top" alt=""> -->
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-             
-          <ul class="navbar-nav my ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">ABOUT US</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
-            </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">CONTACT US</a>
-          </li>
-          </ul>
+      <div class="container">
+        <div class="row">
+          <div class="col-sm-4"><br>
+            <img src="/images/logo.png" class="d-inline-block align-top" alt="">
           </div>
-        </nav>
-        </div>
-        <!-- <nav class="my-nav navbar navbar-expand-lg navbar-light">
-          <a class="navbar-brand" href="#"></a>
-          <img src="/images/logo.png" class="d-inline-block align-top" alt="">
-          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarSupportedContent">
-             
-          <ul class="navbar-nav my ml-auto">
-            <li class="nav-item active">
-              <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">ABOUT US</a>
-          </li>
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
-            <div class="dropdown-menu" aria-labelledby="navbarDropdown">
-              <a class="dropdown-item" href="#">Action</a>
-              <a class="dropdown-item" href="#">Another action</a>
-              <div class="dropdown-divider"></div>
-              <a class="dropdown-item" href="#">Something else here</a>
+          <div class="col-sm-8">
+            <div class="top-bar">
+                <a href="" class="e-mail">info@albawadimetals.com</a>
+                <ul class="social css3 display">
+                  <a href="http://facebook.com"><p class="ptags"><img  src="images/facebook.svg"></img></p></a>
+                  <a href="http://twitter.com"><p class="ptags"><img  src="images/twitter.svg"></img></p></a>
+                  <a href="http://instagram.com"><p class="ptags"><img  src="images/instagram.svg"></img></p></a>
+                </ul>
             </div>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="#">CONTACT US</a>
-          </li>
-          </ul>
+            <nav class="my-nav navbar navbar-expand-lg navbar-light">
+            <a class="navbar-brand" href="#"></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              
+            <ul class="navbar-nav my ml-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">ABOUT US</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#">CONTACT US</a>
+            </li>
+            </ul>
+            </div>
+          </nav>
           </div>
-        </nav> -->
-      </div>
+        </div>
+      </div>  
     </div>
-</div>
     <div id="carouselExampleSlides" class="carousel slide">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -105,7 +70,7 @@
           <img class="d-block w-100 imgs img-fluid" src="images/third.png" alt="Third slide">
         </div>
       </div>
-      <a class="carousel-control-prev" href="#carouselExampleSlidesOnly" role="button" data-slide="prev">
+      <a class="carousel-control-prev" href="#carouselExampleSlides" role="button" data-slide="prev">
         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
       </a>
