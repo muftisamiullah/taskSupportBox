@@ -1,6 +1,10 @@
 .my-nav{
-    height: 90px;
-    /* background: transparent; */
+    float: right;
+    padding: 0;
+    /* margin: 0; */
+    float: right;
+    padding-left: 367px;
+    padding-top: 10px;
 }
 
 .imgs{
@@ -12,7 +16,7 @@ footer{
     color: white;
 }
 .web{
-    font: 14px 'Droid Serif', serif;
+    font: 14px 'Droid 363if', serif;
     color: #ec2028;
 }
 .intro{
@@ -135,15 +139,71 @@ width: 70%;
 height: 100%;
 }
 .my{
-    font: 14px 'Droid Serif', serif;
+    font: 12px 'Droid Serif', serif;
+    /* padding-top: 28px; */
 }
+nav .navbar-nav li a{
+  color: #898989 !important;
+  
+  }
+  nav .navbar-nav li a:hover{
+  color: #ec2028 !important;
+  }
+    nav .navbar-nav li a:active{
+  color: #ec2028 !important;
+  }
 .fli{
     color: #7f91bc;
-    font: 14px 'Droid Serif', serif;
+    font: 13px 'Droid Serif', serif;
 }
 .fli:hover{
     color: white;
 }
 li{
     margin: 3px 0;
+}
+.top-bar {
+    max-width: 100%;
+    height: 40px;
+    border-bottom: 1px #e1e1e1 solid;
+    border-right: 1px #e1e1e1 solid;
+    border-top: 1px #e1e1e1 solid;
+    background: #FFF;
+    color: #666;
+    padding: 10px 0px;
+    position: relative;
+    float: right;
+}
+.top-bar a.e-mail {
+    font: 14px 'Droid Serif', serif;
+    display: block;
+    color: #999;
+    line-height: 15px;
+    float: left;}
+.top-bar a.e-mail:hover {
+    color: #ec2028;
+    }
+
+/* .line {
+    position: absolute;
+    width: 30px;
+    height: 39px;
+    left: -30px;
+    top: -1px;
+    display: block;
+} */
+.social {
+    list-style: none;
+    margin: 0px auto;
+    float: right;
+    margin-right: 10px;
+}
+.row4{
+    height: 90px;
+}
+.ptags{
+    display: inline;
+}
+.social a p img:hover{
+    color: #ec2028;
 }
