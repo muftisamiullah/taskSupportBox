@@ -10,11 +10,11 @@
 .imgs{
     width: 1585px;
 }
-footer{
+/* footer{
     height: 45px;
     background-color: #2d3956;
     color: white;
-}
+} */
 .web{
     font: 14px 'Droid 363if', serif;
     color: #ec2028;
@@ -25,35 +25,34 @@ footer{
 }
 .fp{
     font: 14px 'Droid Serif', serif;
-     /* font-size: 12px; */
     display: inline;
+    float:left;
 }
 .fp1{
+    float:center;
     font: 14px 'Droid Serif', serif;
-     /* font-size: 12px; */
-    float: right;
-    display: inline;
 }
 .footdiv{
-    padding-top: 12px;
+        color: white;
+    background-color: #2d3956;
 }
 .row1{
-    /* height: 250px; */
     font-size: 12px;
-    text-align: center;
     background-color: #232a3b;
     color:#7f91bc;
 }
-h5{
+.head5{
     font:20px 'Droid Serif', serif;
     color: white;
+    /* text-align: center; */
 }
-h5:hover{
+.head5:hover{
     color: #ec2028;
 }
 
 ul {
   list-style-type: none;
+  /* text-align: center; */
 }
 .row2{
     text-align: center;
@@ -100,6 +99,7 @@ h4{
 .row3{
      /* font-size: 12px; */
     text-align: center;
+    
 }
 .imgs2{
     width:100%
@@ -123,8 +123,14 @@ h4{
 .custom{
     padding-top: 10px;
 }
-.apro{
+
+.head6{
+    padding-top: 15px;
     font: 20px 'Droid Serif', serif;
+    color:#898989;
+}
+.head6:hover{
+    color: #ec2028;
 }
 a{
     color: #898989;
@@ -133,10 +139,12 @@ a:hover{
     color: #ec2028;
 text-decoration: none;}
 
-.imgs3{
-border-radius: 50%;
-width: 70%;
-height: 100%;
+.img-fluid{
+/* border-radius: 50%; */
+/* width: 70%; */
+/* height: 100%; */
+ max-width: 100%;
+  height: auto;
 }
 .my{
     font: 12px 'Droid Serif', serif;
@@ -155,15 +163,19 @@ nav .navbar-nav li a{
 .fli{
     color: #7f91bc;
     font: 13px 'Droid Serif', serif;
+    /* text-align: center; */
+    padding-right: 25px;
 }
 .fli:hover{
     color: white;
 }
 li{
     margin: 3px 0;
+    /* text-align: center; */
+    /* padding-right: 25px; */
 }
 .top-bar {
-    max-width: 100%;
+    /* max-width: 100%; */
     height: 40px;
     border-bottom: 1px #e1e1e1 solid;
     border-right: 1px #e1e1e1 solid;
@@ -207,3 +219,5 @@ li{
 .social a p img:hover{
     color: #ec2028;
 }
+
+
