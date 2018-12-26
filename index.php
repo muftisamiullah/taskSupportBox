@@ -14,10 +14,10 @@
     <div class=row4>
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-push-12 col-xs-push-12"><br>
+          <div class="col-lg-4 col-md-4 col-sm-push-4 col-xs-2"><br>
             <img src="/images/logo.png" class="d-inline-block align-top" alt="">
           </div>
-          <div class="col-lg-8 col-md-8 col-sm-pull-12 col-xs-pull-12">
+          <div class="col-lg-8 col-md-8 col-sm-pull-8 col-xs-2">
             <div class="top-bar">
                 <a href="" class="e-mail">info@albawadimetals.com</a>
                 <ul class="social css3 display">
@@ -26,13 +26,47 @@
                   <a href="http://instagram.com"><p class="ptags"><img  src="images/instagram.svg"></img></p></a>
                 </ul>
             </div>
-            <nav class="my-nav navbar navbar-expand-lg navbar-light">
+            
+            <nav class="my-nav navbar navbar-expand-md navbar-light navbar-default" data-spy="affix">
             <a class="navbar-brand" href="#"></a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
               <ul class="navbar-nav my ml-auto" >
+                <li class="nav-item active">
+                  <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">ABOUT US</a>
+              </li>
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">PRODUCTS</a>
+                <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="#">Action</a>
+                  <a class="dropdown-item" href="#">Another action</a>
+                  <div class="drwn-divider"></div>
+                  <a class="dropdown-item" href="#">Something else here</a>
+                </div>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">CONTACT US</a>
+              </li>
+              </ul>
+            </div>
+            </nav>
+          </div>
+        </div>  
+      </div>
+
+      <!-- <div class="container">
+        <nav class="my-nav2 navbar navbar-expand-md navbar-inverse navbar-light sticky-top" data-spy="affix">
+            <a class="navbar-brand" href="#"><img src="/images/logo.png" class="d-inline-block align-top" alt=""></a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+              <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+              <ul class="navbar-nav my2 ml-auto" >
                 <li class="nav-item active">
                   <a class="nav-link" href="#">HOME<span class="sr-only">(current)</span></a>
               </li>
@@ -53,11 +87,9 @@
               </li>
               </ul>
             </div>
-            </nav>
-          </div>
-        </div>  
+        </nav>
       </div>
-    </div>
+    </div> -->
 
     <div id="carouselExampleSlides" class="carousel slide">
       <div class="carousel-inner">
@@ -244,5 +276,7 @@
       </div>
     </div>
     <!-- </footer> -->
+     <script src="https://code.jquery.com/jquery-1.11.0.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/js/bootstrap.min.js"></script>
   </body>
 </html>

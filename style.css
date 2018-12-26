@@ -1,10 +1,14 @@
 .my-nav{
     float: right;
     padding: 0;
-    /* margin: 0; */
-    float: right;
     padding-left: 367px;
     padding-top: 10px;
+}
+.my-nav2{
+    /* float: right;
+    padding: 0;
+    padding-left: 367px; */
+    padding-top: 18px;
 }
 
 .imgs{
@@ -150,6 +154,11 @@ text-decoration: none;}
     font: 12px 'Droid Serif', serif;
     /* padding-top: 28px; */
 }
+.my2{
+    font: 8px;
+    /* padding-top: 15px */
+    /* margin-top: 25px; */
+}
 nav .navbar-nav li a{
   color: #898989 !important;
   
@@ -180,6 +189,7 @@ li{
     border-bottom: 1px #e1e1e1 solid;
     border-right: 1px #e1e1e1 solid;
     border-top: 1px #e1e1e1 solid;
+    border-left: 1px #e1e1e1 solid;
     background: #FFF;
     color: #666;
     padding: 10px 0px;
@@ -211,7 +221,7 @@ li{
     margin-right: 10px;
 }
 .row4{
-    height: 90px;
+    height: auto;
 }
 .ptags{
     display: inline;
@@ -219,5 +229,4 @@ li{
 .social a p img:hover{
     color: #ec2028;
 }
-
 
