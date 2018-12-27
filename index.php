@@ -14,10 +14,10 @@
     <div class=row4>
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-push-4 col-xs-2"><br>
+          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-2"><br>
             <img src="/images/logo.png" class="d-inline-block align-top" alt="">
           </div>
-          <div class="col-lg-8 col-md-8 col-sm-pull-8 col-xs-2">
+          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-2">
             <div class="top-bar">
                 <a href="" class="e-mail">info@albawadimetals.com</a>
                 <ul class="social css3 display">
@@ -58,7 +58,7 @@
           </div>
         </div>  
       </div>
-
+<!-- --------------------------------------------------------------------------------------------------------- -->
       <!-- <div class="container">
         <nav class="my-nav2 navbar navbar-expand-md navbar-inverse navbar-light sticky-top" data-spy="affix">
             <a class="navbar-brand" href="#"><img src="/images/logo.png" class="d-inline-block align-top" alt=""></a>
@@ -88,9 +88,9 @@
               </ul>
             </div>
         </nav>
-      </div>
-    </div> -->
-
+      </div>-->
+    </div>
+<!-- -------------------------------------------------------------------------------------------------------- -->
     <div id="carouselExampleSlides" class="carousel slide">
       <div class="carousel-inner">
         <div class="carousel-item active">
@@ -112,7 +112,7 @@
         <span class="sr-only">Next</span>
       </a>
     </div>
-
+<!-- --------------------------------------------------------------------------------------------------- -->
     <div class="row3"><br>
       <div class="container">
         <h2>Our Products</h2>
@@ -145,7 +145,7 @@
           </div>
       </div>
     </div><br><br>
-
+<!-- -------------------------------------------------------------------------------------------------------- -->
     <div class="row2"><br>
       <div class="container">
         <h2>Welcome To Al Bawadi Metal Industries</h2>
@@ -220,6 +220,12 @@
       </div>
     </div><br>
 
+
+<!-- ------------------------------------------------------------------------------------------------------- -->
+
+
+
+<!--------------------------------------------------------------------------------------------------------------  -->
     <div class="row1">
       <div class="container"><br>
         <div class="row">
@@ -262,7 +268,7 @@
         </div>
       </div>
     </div>
-    <!-- <footer> -->
+    <!-- <footer>---------------------------------------------------------------------------------------- -->
     <div class="footdiv"><br>
       <div class="container">
         <div class="row">
