@@ -14,12 +14,12 @@
     <div class=row4>
       <div class="container">
         <div class="row">
-          <div class="col-lg-4 col-md-4 col-sm-4 col-xs-2"><br>
+          <div class="col-lg-4 col-md-4 col-sm-push-4 col-xs-2"><br>
             <img src="/images/logo.png" class="d-inline-block align-top" alt="">
           </div>
-          <div class="col-lg-8 col-md-8 col-sm-8 col-xs-2">
+          <div class="col-lg-8 col-md-8 col-sm-pull-8 col-xs-2">
             <div class="top-bar">
-                <a href="" class="e-mail">info@albawadimetals.com</a>
+                <a href="" class="e-mail"><img src="images/mail-16.png"></img> info@albawadimetals.com</a>
                 <ul class="social css3 display">
                   <a href="http://facebook.com"><p class="ptags"><img  src="images/facebook.svg"></img></p></a>
                   <a href="http://twitter.com"><p class="ptags"><img  src="images/twitter.svg"></img></p></a>
