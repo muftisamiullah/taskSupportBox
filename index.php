@@ -11,11 +11,11 @@
       <link rel="icon" type="image/png" href="images/favicon.png" />
   </head>
   <body>
-    <div class=row4>
+    <div class="row4">
       <div class="container">
         <div class="row">
           <div class="col-lg-4 col-md-4 col-sm-push-4 col-xs-2"><br>
-            <img src="/images/logo.png" class="d-inline-block align-top" alt="">
+            <img src="/images/logo.png" class="d-inline-block align-top img-fluid" alt="">
           </div>
           <div class="col-lg-8 col-md-8 col-sm-pull-8 col-xs-2">
             <div class="top-bar">
