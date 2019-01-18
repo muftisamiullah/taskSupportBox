@@ -230,3 +230,6 @@ li{
     color: #ec2028;
 }
 
+.cir-image {
+    clip-path: circle(35%);
+}
